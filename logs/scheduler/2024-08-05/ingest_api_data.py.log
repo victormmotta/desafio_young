@@ -1,0 +1,343 @@
+[2024-08-05T00:00:26.882+0000] {processor.py:161} INFO - Started process (PID=15733) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:00:26.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:00:26.884+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:00:26.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:00:26.897+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:00:26.994+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:00:26.994+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:00:27.013+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:00:27.013+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:00:27.028+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.151 seconds
+[2024-08-05T00:00:57.673+0000] {processor.py:161} INFO - Started process (PID=16005) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:00:57.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:00:57.675+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:00:57.675+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:00:57.686+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:00:57.704+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:00:57.704+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:00:57.723+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:00:57.723+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:00:57.739+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.072 seconds
+[2024-08-05T00:01:27.814+0000] {processor.py:161} INFO - Started process (PID=16277) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:01:27.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:01:27.816+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:01:27.816+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:01:27.829+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:01:27.848+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:01:27.848+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:01:27.868+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:01:27.868+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:01:27.885+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.076 seconds
+[2024-08-05T00:01:57.974+0000] {processor.py:161} INFO - Started process (PID=16549) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:01:57.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:01:57.976+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:01:57.976+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:01:57.989+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:01:58.011+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:01:58.011+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:01:58.036+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:01:58.036+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:01:58.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.088 seconds
+[2024-08-05T00:02:28.240+0000] {processor.py:161} INFO - Started process (PID=16821) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:02:28.241+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:02:28.242+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:02:28.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:02:28.255+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:02:28.274+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:02:28.274+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:02:28.294+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:02:28.294+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:02:28.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.074 seconds
+[2024-08-05T00:02:58.509+0000] {processor.py:161} INFO - Started process (PID=17093) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:02:58.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:02:58.511+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:02:58.511+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:02:58.523+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:02:58.542+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:02:58.542+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:02:58.561+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:02:58.561+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:02:58.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.073 seconds
+[2024-08-05T00:03:28.908+0000] {processor.py:161} INFO - Started process (PID=17365) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:03:28.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:03:28.910+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:03:28.910+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:03:28.923+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:03:28.942+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:03:28.942+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:03:28.961+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:03:28.960+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:03:28.977+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.074 seconds
+[2024-08-05T00:03:59.663+0000] {processor.py:161} INFO - Started process (PID=17631) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:03:59.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:03:59.666+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:03:59.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:03:59.679+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:03:59.701+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:03:59.700+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:03:59.721+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:03:59.721+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:03:59.738+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.079 seconds
+[2024-08-05T00:04:29.978+0000] {processor.py:161} INFO - Started process (PID=17903) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:04:29.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:04:29.981+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:04:29.980+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:04:29.993+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:04:30.013+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:04:30.013+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:04:30.035+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:04:30.035+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:04:30.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.079 seconds
+[2024-08-05T00:05:00.257+0000] {processor.py:161} INFO - Started process (PID=18175) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:05:00.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:05:00.259+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:05:00.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:05:00.273+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:05:00.293+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:05:00.293+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:05:00.317+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:05:00.316+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:05:00.336+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.084 seconds
+[2024-08-05T00:05:30.487+0000] {processor.py:161} INFO - Started process (PID=18447) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:05:30.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:05:30.489+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:05:30.489+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:05:30.502+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:05:30.522+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:05:30.522+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:05:30.544+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:05:30.544+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:05:30.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.082 seconds
+[2024-08-05T00:06:00.811+0000] {processor.py:161} INFO - Started process (PID=18719) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:06:00.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:06:00.814+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:06:00.814+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:06:00.826+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:06:00.846+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:06:00.846+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:06:00.867+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:06:00.867+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:06:00.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:06:30.998+0000] {processor.py:161} INFO - Started process (PID=18991) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:06:30.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:06:31.000+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:06:31.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:06:31.012+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:06:31.033+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:06:31.033+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:06:31.054+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:06:31.054+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:06:31.072+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.081 seconds
+[2024-08-05T00:07:02.017+0000] {processor.py:161} INFO - Started process (PID=19263) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:07:02.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:07:02.019+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:07:02.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:07:02.033+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:07:02.050+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:07:02.050+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:07:02.071+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:07:02.071+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:07:02.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:07:32.375+0000] {processor.py:161} INFO - Started process (PID=19535) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:07:32.376+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:07:32.378+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:07:32.377+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:07:32.389+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:07:32.408+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:07:32.408+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:07:32.429+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:07:32.429+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:07:32.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:08:02.583+0000] {processor.py:161} INFO - Started process (PID=19807) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:08:02.584+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:08:02.585+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:08:02.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:08:02.599+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:08:02.618+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:08:02.618+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:08:02.637+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:08:02.637+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:08:02.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.076 seconds
+[2024-08-05T00:08:32.891+0000] {processor.py:161} INFO - Started process (PID=20079) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:08:32.892+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:08:32.894+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:08:32.894+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:08:32.907+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:08:32.928+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:08:32.927+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:08:32.947+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:08:32.947+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:08:32.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.077 seconds
+[2024-08-05T00:09:03.246+0000] {processor.py:161} INFO - Started process (PID=20351) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:09:03.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:09:03.248+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:09:03.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:09:03.260+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:09:03.278+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:09:03.278+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:09:03.297+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:09:03.297+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:09:03.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.074 seconds
+[2024-08-05T00:09:34.004+0000] {processor.py:161} INFO - Started process (PID=20623) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:09:34.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:09:34.006+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:09:34.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:09:34.017+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:09:34.035+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:09:34.035+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:09:34.054+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:09:34.053+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:00:00+00:00, run_after=2024-08-05 00:10:00+00:00
+[2024-08-05T00:09:34.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.069 seconds
+[2024-08-05T00:10:04.600+0000] {processor.py:161} INFO - Started process (PID=20901) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:10:04.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:10:04.602+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:10:04.602+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:10:04.615+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:10:04.634+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:10:04.634+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:10:04.652+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:10:04.652+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:10:04.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.074 seconds
+[2024-08-05T00:10:35.294+0000] {processor.py:161} INFO - Started process (PID=21176) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:10:35.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:10:35.296+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:10:35.296+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:10:35.311+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:10:35.332+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:10:35.332+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:10:35.354+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:10:35.354+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:10:35.372+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.085 seconds
+[2024-08-05T00:11:06.074+0000] {processor.py:161} INFO - Started process (PID=21448) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:11:06.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:11:06.077+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:11:06.076+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:11:06.089+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:11:06.109+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:11:06.108+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:11:06.129+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:11:06.128+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:11:06.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.077 seconds
+[2024-08-05T00:11:36.923+0000] {processor.py:161} INFO - Started process (PID=21720) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:11:36.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:11:36.925+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:11:36.925+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:11:36.939+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:11:36.958+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:11:36.958+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:11:36.981+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:11:36.981+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:11:36.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.081 seconds
+[2024-08-05T00:12:07.147+0000] {processor.py:161} INFO - Started process (PID=21992) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:12:07.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:12:07.150+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:12:07.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:12:07.165+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:12:07.189+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:12:07.189+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:12:07.214+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:12:07.214+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:12:07.233+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.094 seconds
+[2024-08-05T00:12:37.454+0000] {processor.py:161} INFO - Started process (PID=22264) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:12:37.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:12:37.457+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:12:37.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:12:37.469+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:12:37.490+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:12:37.490+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:12:37.510+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:12:37.510+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:12:37.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:13:07.662+0000] {processor.py:161} INFO - Started process (PID=22536) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:13:07.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:13:07.665+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:13:07.664+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:13:07.678+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:13:07.697+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:13:07.697+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:13:07.717+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:13:07.717+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:13:07.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.077 seconds
+[2024-08-05T00:13:37.812+0000] {processor.py:161} INFO - Started process (PID=22808) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:13:37.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:13:37.824+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:13:37.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:13:37.843+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:13:37.908+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:13:37.908+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:13:38.003+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:13:38.003+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:13:38.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.278 seconds
+[2024-08-05T00:14:08.380+0000] {processor.py:161} INFO - Started process (PID=23080) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:14:08.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:14:08.383+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:14:08.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:14:08.397+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:14:08.417+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:14:08.417+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:14:08.435+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:14:08.435+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:14:08.453+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:14:38.604+0000] {processor.py:161} INFO - Started process (PID=23352) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:14:38.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:14:38.607+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:14:38.607+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:14:38.621+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:14:38.639+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:14:38.639+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:14:38.661+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:14:38.661+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:14:38.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.082 seconds
+[2024-08-05T00:15:08.910+0000] {processor.py:161} INFO - Started process (PID=23624) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:15:08.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:15:08.913+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:15:08.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:15:08.926+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:15:08.946+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:15:08.946+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:15:08.968+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:15:08.968+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:15:08.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.080 seconds
+[2024-08-05T00:15:39.288+0000] {processor.py:161} INFO - Started process (PID=23896) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:15:39.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:15:39.290+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:15:39.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:15:39.304+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:15:39.325+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:15:39.325+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:15:39.342+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:15:39.342+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:15:39.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.076 seconds
+[2024-08-05T00:16:09.712+0000] {processor.py:161} INFO - Started process (PID=24168) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:16:09.712+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:16:09.714+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:16:09.714+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:16:09.726+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:16:09.746+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:16:09.746+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:16:09.770+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:16:09.770+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:16:09.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.081 seconds
+[2024-08-05T00:16:40.100+0000] {processor.py:161} INFO - Started process (PID=24440) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:16:40.101+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:16:40.103+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:16:40.102+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:16:40.115+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:16:40.136+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:16:40.135+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:16:40.155+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:16:40.155+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:16:40.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:17:10.476+0000] {processor.py:161} INFO - Started process (PID=24712) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:17:10.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:17:10.479+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:17:10.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:17:10.492+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:17:10.512+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:17:10.512+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:17:10.531+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:17:10.531+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:17:10.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.077 seconds
+[2024-08-05T00:17:40.701+0000] {processor.py:161} INFO - Started process (PID=24984) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:17:40.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:17:40.704+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:17:40.703+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:17:40.717+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:17:40.736+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:17:40.736+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:17:40.755+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:17:40.755+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:17:40.772+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.076 seconds
+[2024-08-05T00:18:11.018+0000] {processor.py:161} INFO - Started process (PID=25256) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:18:11.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:18:11.020+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:18:11.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:18:11.033+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:18:11.054+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:18:11.054+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:18:11.075+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:18:11.075+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:18:11.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.079 seconds
+[2024-08-05T00:18:41.238+0000] {processor.py:161} INFO - Started process (PID=25528) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:18:41.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:18:41.240+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:18:41.240+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:18:41.254+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:18:41.276+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:18:41.276+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:18:41.297+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:18:41.297+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:18:41.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.081 seconds
+[2024-08-05T00:19:11.353+0000] {processor.py:161} INFO - Started process (PID=25800) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:19:11.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:19:11.355+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:19:11.355+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:19:11.367+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:19:11.386+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:19:11.385+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:19:11.404+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:19:11.404+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:19:11.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.071 seconds
+[2024-08-05T00:19:41.774+0000] {processor.py:161} INFO - Started process (PID=26072) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:19:41.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:19:41.777+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:19:41.776+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:19:41.789+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:19:41.808+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:19:41.808+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:19:41.828+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:19:41.827+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:10:00+00:00, run_after=2024-08-05 00:20:00+00:00
+[2024-08-05T00:19:41.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.075 seconds
+[2024-08-05T00:20:11.910+0000] {processor.py:161} INFO - Started process (PID=26350) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:20:11.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:20:11.912+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:20:11.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:20:11.924+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:20:11.944+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:20:11.944+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:20:11.965+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:20:11.965+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:20:11.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.079 seconds
+[2024-08-05T00:20:42.510+0000] {processor.py:161} INFO - Started process (PID=26625) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:20:42.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:20:42.512+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:20:42.511+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:20:42.525+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:20:42.546+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:20:42.546+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:20:42.567+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:20:42.567+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:20:42.585+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.081 seconds
+[2024-08-05T00:21:12.968+0000] {processor.py:161} INFO - Started process (PID=26897) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:21:12.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:21:12.971+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:21:12.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:21:12.984+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:21:13.005+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:21:13.004+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:21:13.025+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:21:13.025+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:21:13.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.080 seconds
+[2024-08-05T00:21:43.228+0000] {processor.py:161} INFO - Started process (PID=27169) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:21:43.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:21:43.231+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:21:43.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:21:43.243+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:21:43.263+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:21:43.263+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:21:43.285+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:21:43.285+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:21:43.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.079 seconds
+[2024-08-05T00:22:13.651+0000] {processor.py:161} INFO - Started process (PID=27441) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:22:13.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:22:13.654+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:22:13.654+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:22:13.665+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:22:13.685+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:22:13.685+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:22:13.706+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:22:13.705+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:22:13.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.076 seconds
+[2024-08-05T00:22:44.108+0000] {processor.py:161} INFO - Started process (PID=27713) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:22:44.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:22:44.111+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:22:44.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:22:44.124+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:22:44.144+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:22:44.143+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:22:44.163+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:22:44.162+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:22:44.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:23:14.689+0000] {processor.py:161} INFO - Started process (PID=27985) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:23:14.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:23:14.692+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:23:14.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:23:14.705+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:23:14.728+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:23:14.727+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:23:14.750+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:23:14.750+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:23:14.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.085 seconds
+[2024-08-05T00:23:45.300+0000] {processor.py:161} INFO - Started process (PID=28257) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:23:45.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:23:45.303+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:23:45.302+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:23:45.315+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:23:45.335+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:23:45.335+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:23:45.356+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:23:45.356+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:23:45.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.078 seconds
+[2024-08-05T00:24:15.696+0000] {processor.py:161} INFO - Started process (PID=28529) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:24:15.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:24:15.698+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:24:15.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:24:15.708+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:24:15.835+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:24:15.835+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:24:15.849+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:24:15.849+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:24:15.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.171 seconds
+[2024-08-05T00:24:46.585+0000] {processor.py:161} INFO - Started process (PID=28801) to work on /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:24:46.586+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_api_data.py for tasks to queue
+[2024-08-05T00:24:46.587+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:24:46.587+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:24:46.597+0000] {processor.py:840} INFO - DAG(s) 'ingest_api_data' retrieved from /opt/airflow/dags/ingest_api_data.py
+[2024-08-05T00:24:46.614+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:24:46.614+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-05T00:24:46.630+0000] {logging_mixin.py:188} INFO - [2024-08-05T00:24:46.630+0000] {dag.py:3947} INFO - Setting next_dagrun for ingest_api_data to 2024-08-05 00:20:00+00:00, run_after=2024-08-05 00:30:00+00:00
+[2024-08-05T00:24:46.644+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_api_data.py took 0.062 seconds
